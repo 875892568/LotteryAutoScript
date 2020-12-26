@@ -1,11 +1,11 @@
-# AutoScript
+.# AutoScript
 ![Automatic sweepstakes](https://github.com/shanmite/LotteryAutoScript/workflows/Automatic%20sweepstakes/badge.svg)  
 ## 动态抽奖  
 通过Github Actions挂载Nodejs脚本  
 > [Actions官方文档](https://docs.github.com/en/free-pro-team@latest/actions/reference/workflow-syntax-for-github-actions)
 
 ---
-
+ 
 ## 操作步骤 
 1. fork本仓库  
  
